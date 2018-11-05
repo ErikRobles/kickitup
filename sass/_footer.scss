@@ -1,0 +1,8 @@
+.main-footer {
+    background: #464646;
+    height: 120px;
+}
+
+.container {
+    @include container(1100px);
+}
